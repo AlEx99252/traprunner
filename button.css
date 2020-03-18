@@ -1,0 +1,33 @@
+body{
+       
+       font-size: xx-large;
+       font-style: inherit;
+       font-weight: bold;
+       height: 50px;
+       list-style-type: none;
+    
+}
+  /* mouseout (default) */    li.btn a {background: violet; list-style-type: none; height: 20px; border:4px outset rgba(170, 176, 255, 0.959);}    /* mouseover */    li.btn a:hover {background:#0A4ADF;  list-style-type: none; height: 20px; border:4px outset #8ABAFF;}    /* omousedown (optional)*/    li.btn a:active {background:#AECBFF; height: 20px; list-style-type: none; border:4px inset #AECBFF;}     
+p{
+    text-align: center;
+    background-color: rgba(255, 68, 0, 0.781);
+    height: 15px;
+}
+li{
+padding-block-start: 15px;
+
+}
+h2{
+    
+   
+    float: center;
+    background-color:burlywood;
+    text-align: center;
+}
+h3{
+    height: 250;
+    width:600px ;
+    float:middle;
+    background-color:burlywood;
+    text-align: center;
+}

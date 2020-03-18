@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    background-color: rgb(0, 128, 21);
+}
+h2{
+    float: right;
+    text-align:center;
+    font-size: xx-large;
+    width: 700px;
+    height: 450px;
+    background-color: rgba(0, 128, 21);
+
+}
+body{
+    font-style: oblique;
+    font-size: large;
+}
+a{
+    height: 20px;
+    width: auto;
+    background-color: yellowgreen;
+}

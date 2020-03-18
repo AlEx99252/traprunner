@@ -1,0 +1,31 @@
+img{
+    height: 350px;
+    width: 450px;
+    float: RIGHT;
+    padding: 50px;
+    background-color:rgba(0, 128, 21);
+}
+a{
+    height: 20px;
+    width: 100;
+    font-size: larger;
+    background-color:rgba(190, 205, 50, 0.712);
+}
+H1{
+    text-align: center;
+    background-color: rgba(0, 128, 21);
+}
+button{
+    height: 60px;
+    width: 230px;
+    background-color: rgb(255, 105, 105);
+    position: flex;
+}
+div{
+    height:150px;
+    widows: 200px;
+    text-align: center;
+    font-size: xx-large;
+    background-color: indigo;
+
+}

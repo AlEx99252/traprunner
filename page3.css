@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-style: oblique;
+}
+img{
+    float: right;
+    width: 400px;
+    height: 300px;
+    background-color:rgba(100, 128, 0, 0.808);
+    padding: 70px;
+
+}
+h1{
+    text-align: center;
+    background-color: rgba(0, 128, 21);
+}
+a{
+    height: 20px;
+    width:auto ;
+    background-attachment:greenyellow;
+    float: left;
+}
