@@ -3,13 +3,13 @@ img{
     width: 450px;
     float: RIGHT;
     padding: 50px;
-    background-color:rgba(0, 128, 21);
+    background-color:olive;
 }
 a{
     height: 20px;
     width: 100;
     font-size: larger;
-    background-color:rgba(190, 205, 50, 0.712);
+    background-color:lawngreen;
 }
 H1{
     text-align: center;

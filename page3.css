@@ -6,7 +6,7 @@ img{
     float: right;
     width: 400px;
     height: 300px;
-    background-color:rgba(100, 128, 0, 0.808);
+    background-color:lawngreen;
     padding: 70px;
 
 }
@@ -17,6 +17,6 @@ h1{
 a{
     height: 20px;
     width:auto ;
-    background-attachment:greenyellow;
+    background-attachment:lawngreen;
     float: left;
 }

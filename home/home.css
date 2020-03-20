@@ -1,0 +1,38 @@
+img{
+    height: 170px;
+    width: 300px;
+    float: left;
+}
+h1{
+    height: 150px;
+    width: 850px;
+    background-color:rgba(132, 165, 42, 0.486);
+    float:right;
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    padding: 5px;
+   
+}
+h2{
+   height: 95px;
+   width: 500px;
+   background-color: lawngreen;
+   font-style: italic;
+   float: left;
+}
+P{
+
+    height: 25px;
+    width:1300px;
+    float: right;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+    
+    
+
+

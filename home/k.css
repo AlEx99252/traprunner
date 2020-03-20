@@ -1,0 +1,13 @@
+img{
+    height: 300px;
+    width: 250px;
+    padding: 100px;
+}
+h1{
+    text-align: center;
+    background-color: red;
+}
+h2{
+    background-color: royalblue;
+    text-align: center;
+}
